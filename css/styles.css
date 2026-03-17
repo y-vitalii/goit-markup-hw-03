@@ -55,8 +55,6 @@ button {
   overflow: hidden;
 }
 
-/* Header */
-
 .page-header {
   border-bottom: 1px solid #e7e9fc;
 }
@@ -133,8 +131,6 @@ button {
   color: #404bbf;
 }
 
-/* Hero */
-
 .hero-section {
   background-color: #2e2f42;
   padding: 188px 0;
@@ -175,8 +171,6 @@ button {
   background-color: #404bbf;
 }
 
-/* Advantages */
-
 .advantages-list {
   display: flex;
   gap: 24px;
@@ -189,8 +183,6 @@ button {
 .advantages-title {
   margin-bottom: 8px;
 }
-
-/* Section titles */
 
 .section-title {
   margin-bottom: 72px;
@@ -216,8 +208,6 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
-
-/* Team */
 
 .team-section {
   background-color: #f4f4fd;
@@ -247,8 +237,6 @@ button {
   text-align: center;
 }
 
-/* Portfolio */
-
 .portfolio-list {
   display: flex;
   flex-wrap: wrap;
@@ -269,8 +257,6 @@ button {
 .portfolio-item-title {
   margin-bottom: 8px;
 }
-
-/* Footer */
 
 .page-footer {
   background-color: #2e2f42;
