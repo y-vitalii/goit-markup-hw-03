@@ -264,14 +264,16 @@ button {
   padding: 100px 0;
 }
 
-.footer-container {
-  display: flex;
-  flex-direction: column;
-}
-
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 
 .footer-logo-part {
